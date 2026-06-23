@@ -1,0 +1,11 @@
+set autoindent
+set background=dark
+set clipboard=unnamedplus
+set expandtab
+set hlsearch
+set noswapfile
+set number
+set shiftwidth=2
+set softtabstop=2
+set tabstop=2
+set timeoutlen=0
