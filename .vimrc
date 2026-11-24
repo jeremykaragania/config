@@ -2,6 +2,7 @@ set autoindent
 set background=dark
 set clipboard=unnamedplus
 set expandtab
+set incsearch
 set hlsearch
 set noswapfile
 set number
